@@ -15,4 +15,7 @@ A simple and responsive currency converter app built using **HTML**, **CSS**, an
 - `script.js` — handles exchange rate logic and API calls
 - `countrycodes.js` — maps currency codes to country codes
 
+## 🌐 Live Demo
+👉 [Click here to try the Currency Converter] (https://mohit98k.github.io/CurrencyConverterWebApp/)
+
 
